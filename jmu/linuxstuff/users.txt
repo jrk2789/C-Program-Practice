@@ -1,0 +1,14 @@
+jedicus  :0           :0               Tue Jun 11 10:48    gone - no logout
+reboot   system boot  4.15.0-51-generi Tue Jun 11 10:48   still running
+jedicus  :0           :0               Thu Jun  6 08:47 - down   (06:06)
+reboot   system boot  4.15.0-51-generi Thu Jun  6 08:47 - 14:54  (06:06)
+jedicus  :0           :0               Thu Jun  6 08:40 - 08:40  (00:00)
+reboot   system boot  4.15.0-51-generi Thu Jun  6 08:39 - 08:40  (00:00)
+jedicus  :0           :0               Wed Jun  5 19:25 - crash  (13:14)
+reboot   system boot  4.15.0-51-generi Wed Jun  5 19:25 - 08:40  (13:15)
+jedicus  :0           :0               Wed Jun  5 16:45 - down   (02:38)
+reboot   system boot  4.15.0-51-generi Wed Jun  5 16:45 - 19:24  (02:38)
+jedicus  :0           :0               Wed Jun  5 14:41 - down   (02:03)
+reboot   system boot  4.15.0-29-generi Wed Jun  5 14:41 - 16:45  (02:03)
+
+wtmp begins Tue Jun  4 14:11:38 2019
